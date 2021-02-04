@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Morning Walk</string>
+    <string name="google_maps_key"></string>
+    <!--- string name="base_url">http://192.168.100.24/</string -->
+    <string name="base_url">http://idzeropoint.com/</string>
+    <!--- string name="base_url">http://3.92.12.25/</string -->
+    <string name="despatch_url">setLocation.php</string>
+    <string name="download_url">getLocation.php</string>
+    <string name="group_url">glogin.php</string>
+    <string name="login_url">login.php</string>
+    <string name="message_url">message.php</string>
+    <!--- string name="login_user">gra</string> -->
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Username is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="title_activity_maps">Morning Walk, 6.7.8\nCopyright\u00A9 2020 PQR</string>
+
+    <string name="option_nil"></string>
+    <string name="option_new">New Group</string>
+    <string name="option_admin">Admins View</string>
+    <string name="option_member">Members View</string>
+</resources>
